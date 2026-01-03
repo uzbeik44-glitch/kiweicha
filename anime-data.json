@@ -1,0 +1,94 @@
+{
+  "anime": [
+    {
+      "name": "Naruto",
+      "genre": ["action", "adventure", "shounen"],
+      "desc": "Naruto Uzumaki – Hokage bo'lishni orzu qilgan yosh ninja. Do'stlik, jasorat va o'sish haqidagi mashhur anime.",
+      "popularity": 10,
+      "year": 2002,
+      "facts": [
+        "Naruto dastlab sariq emas, ko‘k sochli bo‘lishi kerak edi.",
+        "Anime 700 ta seriyadan iborat.",
+        "Naruto nomi ramen sho‘rvasidan olingan."
+      ]
+    },
+    {
+      "name": "Attack on Titan",
+      "genre": ["action", "drama", "fantasy"],
+      "desc": "Devlar bilan kurashadigan insoniyat haqida epik anime. Kuchli syujet va hayajonli janglar.",
+      "popularity": 10,
+      "year": 2013,
+      "facts": [
+        "Manga 2009-yilda boshlangan.",
+        "Anime 4 ta mavsumdan iborat.",
+        "Devlar dizayni haqiqiy odamlar asosida yaratilgan."
+      ]
+    },
+    {
+      "name": "One Piece",
+      "genre": ["adventure", "action", "comedy"],
+      "desc": "Luffy va uning ekipaji One Piece xazinasini izlab dunyo bo'ylab sayohat qiladi. Do'stlik va sarguzashtga boy.",
+      "popularity": 10
+    },
+    {
+      "name": "Demon Slayer",
+      "genre": ["action", "supernatural", "drama"],
+      "desc": "Tanjiro oilasini qutqarish uchun yovuz demonlarga qarshi kurashadi. Ajoyib animatsiya va musiqaga ega.",
+      "popularity": 9
+    },
+    {
+      "name": "Death Note",
+      "genre": ["thriller", "mystery", "psychological"],
+      "desc": "Light Yagami o'lim daftarini topib, dunyoni o'zgartirishga harakat qiladi. Intellektual duel va sarguzasht.",
+      "popularity": 9,
+      "year": 2006,
+      "facts": [
+        "Light Yagami aslida 'Kira' laqabini oladi.",
+        "Death Note’ning turli xil qoidalari mavjud.",
+        "Anime 37 ta seriyadan iborat."
+      ]
+    },
+    {
+      "name": "Fullmetal Alchemist: Brotherhood",
+      "genre": ["adventure", "fantasy", "drama"],
+      "desc": "Elric birodarlar alkimyo yordamida onasini tiriltirishga harakat qiladi. Kuchli syujet va falsafiy savollar.",
+      "popularity": 9
+    },
+    {
+      "name": "Jujutsu Kaisen",
+      "genre": ["action", "supernatural", "shounen"],
+      "desc": "Itadori Yuji la'natlangan energiyaga qarshi kurashadi. Zamonaviy janglar va kuchli xarakterlar.",
+      "popularity": 8
+    },
+    {
+      "name": "My Hero Academia",
+      "genre": ["action", "superhero", "shounen"],
+      "desc": "Deku va boshqa qahramonlar kuchli bo'lish uchun kurashadi. Motivatsion va ilhomlantiruvchi hikoya.",
+      "popularity": 8
+    },
+    {
+      "name": "Spy x Family",
+      "genre": ["comedy", "action", "slice of life"],
+      "desc": "Maxfiy agent, josus va telepat qizdan iborat oilaning kulgili va sarguzashtli hayoti.",
+      "popularity": 8
+    },
+    {
+      "name": "Your Name",
+      "genre": ["romance", "drama", "supernatural"],
+      "desc": "Ikki yoshning tanalari almashib, bir-birining hayotini o'rganishi haqida romantik anime film.",
+      "popularity": 8
+    },
+      {
+    "name": "Iblis Ovchisi",
+    "genre": ["jangari", "fantastika", "drama"],
+    "desc": "Oilasini iblislar o‘ldirgach, Tanjiro ularni yo‘q qilish yo‘liga o‘tadi.",
+    "popularity": 9,
+    "year": 2019,
+    "facts": [
+      "Chiroyli animatsiyasi bilan mashhur.",
+      "Ufotable studiyasi tomonidan yaratilgan.",
+      "Oilaviy rishtalar muhim mavzu."
+    ]
+  }
+  ]
+}
